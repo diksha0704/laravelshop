@@ -149,6 +149,8 @@
 							<li><a href="#">Popularity</a></li>
 							<li><a href="#">Rating</a></li>
 							<li><a href="#">Latest</a></li>
+							<li><a href="#">belated</a></li>
+
 							<li><a href="#">Price</a></li>
 							<li><a href="#">Men</a></li>
 							<li><a href="#">Women</a></li>
@@ -161,6 +163,9 @@
 					
 						<li>
 							<a class="menu_tab active_tag" href="index.html">Home</a></li>
+						 
+							<li>
+							<a class="menu_tab active_tag" href="index.html">logout</a></li>
 						 
 						<li>
 							<a class="menu_tab" href="product.blade.php">Product</a></li>
